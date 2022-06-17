@@ -1,0 +1,26 @@
+1.Explain the use of JavaScript ( or What you can do using a JavaScript)
+Answer: Javascript is a programming language which can now be used in many domains. It is not limited to just the web as it was before.
+        Today entire backends are made in javascript. Mobile apps, blockchains and JS is also used in the cloud.
+
+2. What is the difference between client-side and server-side?
+Answer: client side and server side refers to the location where the processes run (either on the server or on the user's system).
+        client side means running the processes on the user's computer and server side means running the processes on the server.
+
+3. What is Nodejs?
+Answer:  Nodejs is a javascript runtime environment. A runtime environment means the place where the javascript code will be executed.
+         Runtime on the browsers might be different than runtime on the servers. Chrome has a javascript engine called v8 which helps in running the JS code.
+         Nodejs also runs on v8. Now, with the help of Nodejs, we are able to run JS on servers.
+
+4.Explain Scope in JavaScript
+Answer: The scope is a policy that manages the accessibility of variables. A piece of code can variables which are only in it's scope.Child scopes have access
+        to parent scopes but not vice versa. let and const are block and function scoped but var is only function scoped.
+
+5.JavaScript is asynchronous or synchronous?
+Answer: JavaScript is synchronous by default but we can make it behave asynchronously.
+
+6. JavaScript is Single-threaded or Multi-threaded?
+Answer: JavaScript is a single threaded language meaning only one line of code can be executed at a time.
+
+7.Explain DOM in your own word.
+Answer: DOM stands for Document Object Model. It is a tree like representation of a web document with the root of the tree being the <html> element.
+
