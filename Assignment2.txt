@@ -1,0 +1,17 @@
+1. What is lexical structure?
+Answer: A programming language's lexical structure specifies a set of basic rules about how code should be written in it.
+        Rules like what variable names look like, the delimiter characters for comments, and how one program statement is separated from the next.
+
+2. What is Unicode?
+Answer: The Unicode Standard is the universal character representation standard for text in computer processing. Unicode provides a consistent way of encoding multilingual plain text making it easier to exchange text files internationally.
+
+3.Explain all the keywords in javascript ?
+Answer: await	break	case	catch	class  const	continue  default	delete do  else	  enum	export	extends
+
+4. What are shorthand operators, explain with a suitable example?
+Answer: Shorthand operators are used to write less code without compromising on the functionality, for eg:
+         a = a+5 can be written as a+=5.
+
+5.What is “use Strict” in JavaScript?
+Answer: “use Strict” states that the code should be executed in strict mode. This helps us to write secure js code. It throws errors which were silent errors before
+        such as , you cannot use the variable without declaring them in JavaScript.
